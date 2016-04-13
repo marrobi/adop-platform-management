@@ -1,3 +1,1 @@
 https://github.com/kramos/adop-cartridge-aspnet-linux.git
-https://github.com/Accenture/adop-cartridge-java.git
-https://github.com/Accenture/adop-cartridge-cartridge-dev.git
